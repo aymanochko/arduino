@@ -18,7 +18,7 @@
 // Uncomment whatever type you're using!
 
 const char* ssid = "NOURHOUSE";
-const char* password = "ABCDEF0987654321ABCDEF";
+const char* password = "";
 
 const char cy_username[] = "7aa0e9a0-1bfa-11e8-9f38-9fae3d42ebf0";
 const char cy_password[] = "80559e8bb8325d8f08e2fd182685a89339624357";
